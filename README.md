@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://user-images.githubusercontent.com/77033963/159844403-9c2ae1a0-d62b-4164-bc32-81dd10716102.gif)
-![](gif2-link-here)
+![](Trimmer_3_23_2022_9_39_37_PM_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/77033963/159844919-8114445c-0554-42cf-9a1f-f60db82dd301.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
