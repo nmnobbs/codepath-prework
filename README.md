@@ -6,9 +6,8 @@
 
 Submitted by: Nicole Nobbay
 
-Time spent: **10** hours spent in total
+Time spent: **7** hours spent in total
 
-Link to project (code): https://glitch.com/edit/#!/harvest-mire-bowl
 Link to project (livesite): https://harvest-mire-bowl.glitch.me
 
 ## Required Functionality
@@ -43,7 +42,6 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://user-images.githubusercontent.com/77033963/159844403-9c2ae1a0-d62b-4164-bc32-81dd10716102.gif)
-![](https://user-images.githubusercontent.com/77033963/159844919-8114445c-0554-42cf-9a1f-f60db82dd301.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
