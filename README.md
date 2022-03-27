@@ -43,11 +43,12 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Game Play with Audio
-![](https://im5.ezgif.com/tmp/ezgif-5-0cf03a0d8a.mp4)
+![]
+
 
 Game Play Gif
 ![](https://im5.ezgif.com/tmp/ezgif-5-9f7786bfbf.gif)
-![](gif4-link-here)
+![](https://im5.ezgif.com/tmp/ezgif-5-0cf03a0d8a.mp4)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
