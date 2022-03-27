@@ -68,7 +68,7 @@ Game Play Gif
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording!](https://loom.com/share/0c15478675d04443a3333197dd2f175d)
 
 
 ## License
