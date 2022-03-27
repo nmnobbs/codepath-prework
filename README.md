@@ -41,6 +41,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+Game Play with Audio
+![](https://im5.ezgif.com/tmp/ezgif-5-0cf03a0d8a.mp4)
+
+Game Play Gif
 ![](https://im5.ezgif.com/tmp/ezgif-5-9f7786bfbf.gif)
 ![](gif4-link-here)
 
