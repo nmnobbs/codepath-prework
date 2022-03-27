@@ -41,8 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://user-images.githubusercontent.com/77033963/159844403-9c2ae1a0-d62b-4164-bc32-81dd10716102.gif)
-![](gif3-link-here)
+![](blob:https://giphy.com/2523f8d6-a9f0-418f-8c94-0793cb94d2eb)
 ![](gif4-link-here)
 
 ## Reflection Questions
