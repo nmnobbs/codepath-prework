@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Game Play with Audio
-[](https://user-images.githubusercontent.com/77033963/160269971-66393b58-98d0-4348-a5ee-a5c6ad045394.mp4)
+https://user-images.githubusercontent.com/77033963/160269971-66393b58-98d0-4348-a5ee-a5c6ad045394.mp4
 
 
 Game Play Gif
