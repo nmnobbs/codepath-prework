@@ -53,7 +53,10 @@ Game Play Gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
+https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md
+another website that talked about how to implement specific code
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
