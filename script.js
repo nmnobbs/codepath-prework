@@ -130,8 +130,13 @@ function guess(btn) {
     // Guess was incorrect
     if (strikes > 0) {
       strikes--;
+      if (strikes == 1) {
+        alert(
+          "You're wrong. Try again! You have " + strikes + " strike remaining."
+        );
+      }
       alert(
-        "You're wrong. Try again! You have " + strikes + ' remaining'
+        "You're wrong. Try again! You have " + strikes + " strikes remaining."
       );
       playClueSequence();
     } else {
