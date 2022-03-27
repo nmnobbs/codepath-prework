@@ -1,27 +1,44 @@
 // global constants
-const clueHoldTime = 1000; //how long to hold each clue's light/sound
-const cluePauseTime = 333; //how long to pause in between clues
-const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
+const cluePauseTime = 333; // how long to pause in between clues
+const nextClueWaitTime = 1000; // how long to wait before starting playback of the clue sequence
 
-//Global Variables
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4];
+// Global Variables
+var pattern = [];
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
 var volume = 0.5;
+var clueHoldTime = 1000;
 var guessCounter = 0;
+var strikes = 3;
+
+function randomNumber(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
+function generatePattern() {
+  var pattern = [];
+  for (let i = 0; i <= 6; i++) {
+    pattern.push(randomNumber(1, 6));
+  }
+  return pattern;
+}
 
 function startGame() {
-  //initialize game variables
+  // initialize game variables
   progress = 0;
+  strikes = 3;
   gamePlaying = true;
+  pattern = generatePattern();
   document.getElementById("startBtn").classList.add("hidden");
   document.getElementById("stopBtn").classList.remove("hidden");
   playClueSequence();
 }
 
 function stopGame() {
-  //initialize game variables
+  // initialize game variables
   gamePlaying = false;
   // swap the Start and Stop buttons
   document.getElementById("startBtn").classList.remove("hidden");
@@ -34,6 +51,8 @@ const freqMap = {
   2: 329.6,
   3: 392,
   4: 466.2,
+  5: 300.2,
+  6: 500.2,
 };
 function playTone(btn, len) {
   o.frequency.value = freqMap[btn];
@@ -75,7 +94,7 @@ function playSingleClue(btn) {
 
 function playClueSequence() {
   guessCounter = 0;
-  let delay = nextClueWaitTime; //set delay to initial wait time
+  let delay = nextClueWaitTime; // set delay to initial wait time
   for (let i = 0; i <= progress; i++) {
     // for each clue that is revealed so far
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms");
@@ -83,6 +102,7 @@ function playClueSequence() {
     delay += clueHoldTime;
     delay += cluePauseTime;
   }
+  clueHoldTime -= 50;
 }
 
 function guess(btn) {
@@ -93,24 +113,30 @@ function guess(btn) {
   }
 
   if (pattern[guessCounter] == btn) {
-    //Guess was correct!
+    // Guess was correct
     if (guessCounter == progress) {
       if (progress == pattern.length - 1) {
-        //GAME OVER: WIN!
+        // Won game
         winGame();
       } else {
-        //Pattern correct. Add next segment
+        // Pattern was correct
         progress++;
         playClueSequence();
       }
     } else {
-      //so far so good... check the next guess
       guessCounter++;
     }
   } else {
-    //Guess was incorrect
-    //GAME OVER: LOSE!
-    loseGame();
+    // Guess was incorrect
+    if (strikes > 0) {
+      strikes--;
+      alert(
+        "You're wrong. Try again! You have " + strikes + ' remaining'
+      );
+      playClueSequence();
+    } else {
+      loseGame();
+    }
   }
 }
 
