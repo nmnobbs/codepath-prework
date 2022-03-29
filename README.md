@@ -8,7 +8,7 @@ Submitted by: Nicole Nobbay
 
 Time spent: **7** hours spent in total
 
-Link to project (livesite): https://harvest-mire-bowl.glitch.me
+Link to project: https://harvest-mire-bowl.glitch.me
 
 ## Required Functionality
 
@@ -54,9 +54,9 @@ Game Play Gif
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md
-another website that talked about how to implement specific code
-
+- https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md
+- https://www.w3schools.com/colors/colors_names.asp
+- https://www.w3schools.com/tags/tag_img.asp 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
@@ -66,7 +66,7 @@ another website that talked about how to implement specific code
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (282 words) 
 
-    [If I had more hours to work on this project, I would spend some of that time implementing the leftover optional features listed above. Adding a timer that lets a  player know how much time they have left to guess the pattern would be a great next step to have in my version of this game. I personally would love the look of a visual countdown that shows a player how many seconds they have left. This feature would allow for an organized game play with set rules and restrictions. In addition to a timer, I would like to continue to finish implementing these optional features by changing the type of tone that is played when pressing each button. I would like to make each specific audio sound that is associated with each button drastically different so that each sound that plays in a pattern is easily distinguishable. To make the game even more cohesive, I would pick audio snippets that somewhat relate to the picture that is shown when each specific button is pressed. The photos I included were pictures I took with my camera that heavily relate to nature, so I would have to get creative with the sounds I would eventually choose. Beyond these optional features, I would like to include additional features that I think of on my own. An additional feature that I would want to have is a game menu where a user can choose the difficulty of the game they want to play. This would require me to refactor certain functions to connect a level of difficulty button to a longer pattern with a shorter hold time that would differentiate by each difficulty level option.]
+    If I had more hours to work on this project, I would spend some of that time implementing the leftover optional features listed above. Adding a timer that lets a player know how much time they have left to guess the pattern would be a great next step to have in my version of this game. I personally would love the look of a visual countdown that shows a player how many seconds they have left. This feature would allow for an organized game play with set rules and restrictions. In addition to a timer, I would like to continue to finish implementing these optional features by changing the type of tone that is played when pressing each button. I would like to make each specific audio sound that is associated with each button drastically different so that each sound that plays in a pattern is easily distinguishable. To make the game even more cohesive, I would pick audio snippets that somewhat relate to the picture that is shown when each specific button is pressed. The photos I included were pictures I took with my camera that heavily relate to nature, so I would have to get creative with the sounds I would eventually choose. Beyond these optional features, I would like to include additional features that I think of on my own. An additional feature that I would want to have is a game menu where a user can choose the difficulty of the game they want to play. This would require me to refactor certain functions to connect a level of difficulty button to a longer pattern with a shorter hold time that would differentiate by each difficulty level option.
 
 
 
