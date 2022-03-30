@@ -62,8 +62,9 @@ Game Play Gif
 **2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it?** (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
 
-**3. What questions about web development do you have after completing your submission?** (100 - 300 words)
-[YOUR ANSWER HERE]
+**3. What questions about web development do you have after completing your submission?** (172 words)
+One question I have about web development involves the use of the interface changing depending on one click. What connections are needed for a person to press a button on a web page to completely change the interface and design of that same page or to navigate it away from the page that it was currently on? This would add to the interactive aspect of a webpage that I am really curious to learn more about. The ability to quickly change a screen layout depending on a user’s input and preferences would be the next step into thinking in terms of user accessibility that I strive to incorporate in my future technical work. Another question I have relates to how can I connect other programming languages in combination with Javascript, HTML, and CSS to create these webpages? I am still a beginner in the learning process of web development, so it would be nice to do more research on how different programming languages can contribute new and important elements to web development.
+
 
 **4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific.** (282 words) 
 
