@@ -44,10 +44,11 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-Game Play with Audio
-<video src='https://user-images.githubusercontent.com/77033963/160269971-66393b58-98d0-4348-a5ee-a5c6ad045394.mp4' width=180/>
+Winning Game Play with Audio
+<video src='https://user-images.githubusercontent.com/77033963/161368126-763e6e48-cf00-481a-9274-99d6e07d2805.mov' width=180/>
 
-
+Losing Game Play with Audio
+<video src='https://user-images.githubusercontent.com/77033963/161368108-e65cfeb1-51dc-43da-9769-d0d3f4c5575d.mov' width=180/>
 
 Game Play Gif
 ![]()
