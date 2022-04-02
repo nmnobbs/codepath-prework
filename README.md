@@ -45,10 +45,10 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Winning Game Play with Audio
-<video src='https://user-images.githubusercontent.com/77033963/161368126-763e6e48-cf00-481a-9274-99d6e07d2805.mov' width=180/>
+<video src='https://user-images.githubusercontent.com/77033963/161368246-d57fb31b-4f66-422b-8f67-04d889361da9.mov' width=180/>
 
 Losing Game Play with Audio
-<video src='https://user-images.githubusercontent.com/77033963/161368108-e65cfeb1-51dc-43da-9769-d0d3f4c5575d.mov' width=180/>
+<video src='https://user-images.githubusercontent.com/77033963/161368312-0bc78005-fc0e-4a00-b23e-41c35703782d.mov' width=180/>
 
 Game Play Gif
 ![]()
