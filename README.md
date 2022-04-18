@@ -52,8 +52,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 **Game Play Gif**
 
-
-![](https://i.imgur.com/uL5hLzU.gifv)
+<video src='https://i.imgur.com/uL5hLzU.gifv' width=180/>
 
 
 ## Reflection Questions
