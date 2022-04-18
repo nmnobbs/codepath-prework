@@ -53,7 +53,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 **Game Play Gif**
 
 
-![](https://im.ezgif.com/tmp/ezgif-1-b360c1003a.gif)
+![](https://i.imgur.com/uL5hLzU.gifv)
 
 
 ## Reflection Questions
